@@ -2,7 +2,7 @@
 
 Composer minimalist custom image
 
-- size `132` mb
+- size `128` mb
 - version `1.8.0`
 - php_version `7.2`
 
