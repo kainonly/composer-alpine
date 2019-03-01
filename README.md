@@ -2,10 +2,6 @@
 
 Composer minimalist custom image
 
-- size `128` mb
-- version `1.8.0`
-- php_version `7.2`
-
 Docker Pull Command
 
 ```shell
