@@ -1,7 +1,5 @@
 # Composer-Alpine
 
-Composer minimalist custom image
-
 Docker Pull Command
 
 ```shell
