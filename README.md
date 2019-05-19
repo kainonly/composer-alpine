@@ -1,6 +1,12 @@
-# Composer-Alpine
+# Composer Alpine
 
-Docker Pull Command
+The source is the composer Image of packagist.laravel-china.org
+
+![MicroBadger Size](https://img.shields.io/microbadger/image-size/kainonly/composer-alpine.svg?style=flat-square)
+![MicroBadger Layers](https://img.shields.io/microbadger/layers/kainonly/composer-alpine.svg?style=flat-square)
+![Docker Pulls](https://img.shields.io/docker/pulls/kainonly/composer-alpine.svg?style=flat-square)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/kainonly/composer-alpine.svg?style=flat-square)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/kainonly/composer-alpine.svg?style=flat-square)
 
 ```shell
 docker pull kainonly/composer-alpine
