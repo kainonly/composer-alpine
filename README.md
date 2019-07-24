@@ -1,6 +1,6 @@
 # Composer Alpine
 
-The source is the composer Image of packagist.laravel-china.org
+The source is the composer Image of mirrors.aliyun.com/composer
 
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/kainonly/composer-alpine.svg?style=flat-square)
 ![MicroBadger Layers](https://img.shields.io/microbadger/layers/kainonly/composer-alpine.svg?style=flat-square)
