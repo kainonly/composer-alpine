@@ -1,2 +1,2 @@
-FROM composer:1.9.1
+FROM composer:1.9.3
 RUN composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/
